@@ -1,0 +1,22 @@
+{
+  "name": "status",
+  "version": "1.0.0",
+  "description": "statuser",
+  "main": "bot.js",
+  "scripts": {
+    "test": "ready"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexLGg/my-staus.git"
+  },
+  "author": "sans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexLGg/my-staus/issues"
+  },
+  "homepage": "https://github.com/alexLGg/my-staus#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
